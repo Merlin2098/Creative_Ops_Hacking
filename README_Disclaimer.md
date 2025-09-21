@@ -1,4 +1,4 @@
-#Este repositorio ha sido creado con el fin de documentar y compartir soluciones reales de automatización y procesamiento de datos desarrolladas en contextos laborales vinculados a Recursos Humanos y procesos administrativos.
+Este repositorio ha sido creado con el fin de documentar y compartir soluciones reales de automatización y procesamiento de datos desarrolladas en contextos laborales vinculados a Recursos Humanos y procesos administrativos.
 
 Por razones de confidencialidad, protección de datos personales y cumplimiento ético, no se incluyen los archivos originales (como reportes de empleados, boletas de pago, constancias de SUNAT, entre otros), ni datos que puedan comprometer la privacidad de personas o empresas.
 
