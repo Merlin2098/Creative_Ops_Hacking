@@ -33,8 +33,6 @@ _A menu-based system to restore logic where none existed._
 - `Python`
 - `pdfplumber`, `pandas`, `os`, `re`
 - Replit IDLE
-- ChatGPT como asistente virtual / virtual assistant
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌗 Filosofía / Philosophy
